@@ -1,2 +1,2 @@
 ![Alt Text](ismet-köseoğlu-poster.png)
-![Alt Text](ismet-köseoğlu-demo - Trim.mp4)
+[![Alt Text](ismet-köseoğlu-thumbnail.png)](https://www.youtube.com/watch?v=VwlSXZBuRlI)
