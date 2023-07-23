@@ -1,2 +1,5 @@
 ![Alt Text](ismet-köseoğlu-poster.png)
-[![Alt Text](thumbnail.png)](https://www.youtube.com/watch?v=VwlSXZBuRlI)
+
+
+https://github.com/ismetkoseoglu/Calculations-with-Hand-Gesture-Detection/assets/26057340/816944a2-d95e-4de3-82dc-6870987d3e21
+
